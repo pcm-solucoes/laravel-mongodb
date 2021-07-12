@@ -1,6 +1,6 @@
 {
-    "name": "jenssegers/mongodb",
-    "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
+    "name": "pcm-solucoes/mongodb",
+    "description": "Fork of A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
     "keywords": [
         "laravel",
         "eloquent",
